@@ -15,3 +15,4 @@ git status " checks files in repository if anything is different
 git commit -m "add message" (prepares a file to send to repository)
 git push " sends file"
 git pull " grabs files that may have been updated
+git add (filename)
